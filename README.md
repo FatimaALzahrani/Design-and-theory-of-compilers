@@ -34,8 +34,9 @@ A Symbol table is a data structure used by a language translator such as a compi
   5. Constant name 
 · Data type 
 · Scope information: where it can be used. 
-· Storage allocation 
-#<img width="960" alt="2023-06-21" src="https://github.com/FatimaALzahrani/Design-and-theory-of-compilers/assets/107775566/f9b4a7ad-ad62-4f9d-91b6-22bf17e7c2d2">
+· Storage allocation
+
+<img width="496" alt="Symbole Table" src="https://github.com/FatimaALzahrani/Design-and-theory-of-compilers/assets/107775566/ea8bf108-44d1-4903-a250-437ad222560c">
 
 ***ALGORITHM :*** 
 1. Start the Program. 
@@ -66,6 +67,8 @@ The lex is used in the manner depicted. A specification of the lexical analyzer 
 Then lex.1 is run through the lex compiler lex.yy.c.
 The program lex.yy.c consists of a tabular representation of a transition diagram constructed from the regular expression of lex.1 together with a standard routine that uses table of recognize leximes.
 the lexical analyzer that transform as input stream into sequence of tokens
+
+<img width="487" alt="Lex" src="https://github.com/FatimaALzahrani/Design-and-theory-of-compilers/assets/107775566/02ecc8c7-f432-4170-9ecc-65f0679dbbf8">
 
 ***ALGORITHM:***
 1. Start the program
