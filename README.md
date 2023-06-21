@@ -12,8 +12,8 @@ My Labs in Design and theory of compilers course
 <hr>
 
 ## Table_Of_Labs
-|:------:|:------:|:------:|
 |Lab Number | Title | Link of Code|
+|:------:|:------:|:------:|
 | 1 | [Symbol Table](#Symbol_Table) |[Lab1](https://github.com/FatimaALzahrani/Design-and-theory-of-compilers/blob/main/Lab1.cpp)|
 |2| [Lexical Analyzer Using Lex Tool](#Lexical_Analyzer_Using_Lex_Tool) |[Lab2](https://github.com/FatimaALzahrani/Design-and-theory-of-compilers/blob/main/Lab2.c)|
 |3| [Enerate YACC Specification For A Few Syntactic Categories](#Enerate_YACC_Specification_For_A_Few_Syntactic_Categories)|[Lab3](https://github.com/FatimaALzahrani/Design-and-theory-of-compilers/blob/main/Lab3.cpp)|
